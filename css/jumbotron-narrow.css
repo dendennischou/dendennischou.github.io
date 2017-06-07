@@ -27,11 +27,11 @@ line-height: 150%;
 
 .intro { 
   font-size: 110px;
-  font-family: 'Bungee Shade', cursive;
+  font-family: 'Microsoft JhengHei', cursive;
   padding: 25.5px;
 /*  color: #ffdb58;
 */
-  color: #ffe521;
+  color: #1f2b3d;
   margin-right: 0;
   padding-left: 0;
 }
@@ -45,7 +45,7 @@ line-height: 150%;
 }
 
 .section {
-  background-color: #ff7996;
+  background-color: #094407;
 /*  background-color: hotpink;
 */  padding: 4px;
   color: white;
